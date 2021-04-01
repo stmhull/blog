@@ -1,0 +1,17 @@
+/* body {
+    font-family: 'Playfair Display', serif;
+} */
+
+* {
+    font-family: courier;
+    font-size: 12pt;
+}
+
+.title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+}
+
+body {
+    display: grid
+}
