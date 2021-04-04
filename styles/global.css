@@ -1,17 +1,49 @@
-/* body {
-    font-family: 'Playfair Display', serif;
-} */
-
 * {
-    font-family: courier;
+    font-family: 'Roboto', sans-serif;    
     font-size: 12pt;
 }
 
 .title {
     font-family: 'Playfair Display', serif;
-    font-size: 2em;
+    font-size: 3em;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
 }
 
-body {
-    display: grid
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    grid-gap: 10px;
+}
+
+.home-content {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+}
+
+.sidebar {
+    grid-row-start: 2
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #696969;
+}
+
+.title-link {
+    font-size: 2em;
+    color: #000066;
+    text-decoration: none;
 }
