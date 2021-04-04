@@ -1,15 +1,16 @@
 import React from 'react';
+import Link from 'next/link'
 
-const Sidebar = ({ allPostsData }) => {
+const Sidebar = () => {
     return (
         <div className="sidebar">
-            <h2>Recent</h2>
             <ul>
-               {allPostsData.map(({ id, title }) => (
-                    <li key={id}>
-                        {title}
-                    </li>
-                ))}
+                <li>
+                    <Link href="/pages/archive">Archive</Link>
+                </li>
+                <li>
+                    <Link href="/pages/about">About</Link>
+                </li>
             </ul>
         </div>
     )

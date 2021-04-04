@@ -3,29 +3,76 @@
     font-size: 12pt;
 }
 
+body {
+    margin: 5px;
+    padding: 0
+}
+
 .title {
     font-family: 'Playfair Display', serif;
     font-size: 3em;
     grid-column-start: 2;
-    grid-column-end: 4;
     grid-row-start: 1;
+}
+
+a {
+    text-decoration: none;
+    color: #000066;
+    font-size: 1.2em;
 }
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    width: 100%;
+    grid-template-columns: 1fr 2fr 1fr;
     grid-gap: 10px;
+    width: 100%;
 }
 
-.home-content {
+.content {
     grid-column-start: 2;
-    grid-column-end: 4;
     grid-row-start: 2;
 }
 
 .sidebar {
-    grid-row-start: 2
+    grid-row-start: 2;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+
+@media (max-width: 750px) {
+    .grid-container {
+        margin: 0 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+
+    .sidebar {
+        width: 100%; /* Centering menu items won't work without this */
+        text-align: center;
+    }
+
+    ul {
+        padding: 0; /* Remove indentation */
+    }
+
+    ul > li {
+        list-style-type: none;
+        display: inline-block;
+        width: 50%;
+        margin: 0;
+    }
+
+    .title {
+        font-size: 3em;
+        margin: 0;
+        text-align: center;
+    }
 }
 
 h1 {
@@ -42,7 +89,8 @@ h2 {
     color: #696969;
 }
 
-.title-link {
+#title-link {
+    font-family: 'Playfair Display', serif;
     font-size: 2em;
     color: #000066;
     text-decoration: none;
