@@ -18,6 +18,8 @@ class BlogDocument extends Document {
                 />
                 <link rel="preconnect" href="https://fonts.gstatic.com" />
                 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet" />  
+                <title>Stephen M. Hull</title>
+                <meta name="description" content="A blog about technology, culture, with some fiction in there to really make you suffer" />
                 </Head>
                 <body>
                     <Main />
