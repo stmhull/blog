@@ -1,13 +1,14 @@
 import { getAllPostIds, getPostData } from "../../lib/posts"
+import Link from 'next/link';
 
 export default function Post({ postData }) {
     return (
         <div>
-            {postData.title}
+            <Link href={`/posts/${postData.id}`}>
+                <a id="title-link">{postData.title}</a>
+            </Link>
             <br/>
-            {postData.id}
-            <br/>
-            {postData.date}
+            <span className="subtitle">{postData.date}</span>
             <br/>
             <div dangerouslySetInnerHTML={{__html: postData.contentHtml}} />
         </div>

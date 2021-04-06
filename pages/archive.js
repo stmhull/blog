@@ -15,7 +15,6 @@ function Archive({ allPostsData }) {
     return (
         <div>
             <ul>
-                {console.log(allPostsData)}
                 {allPostsData.map(({title, date, id}) => 
                         <li key={id}>
                             <Link href={`/posts/${id}`}>{date + " " + title}</Link>
