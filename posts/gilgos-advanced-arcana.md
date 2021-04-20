@@ -7,76 +7,109 @@ Gilgo was a terrible wizard. He flunked out of wizard college, went on a bender,
 
 
 GILGO’S RED SHIRT
+
 1st
-V, S
-Materials: A red shirt
+
+V, S, M (A red shirt)
+
 Casting time: 1 action
+
 Duration: 1 minute
+
 Effects: The wizard is in possession of a red shirt, redder than before.
+
 
 GILGO’S THROBBING HEADACHE
 1st
-V, S
-Materials: An iron hammer
+
+V, S, M (An iron hammer)
+
 Casting time: 1 action
+
 Duration: 1 hour
+
 Range: Touch
+
 Effects: The wizard makes a touch attack while holding the hammer. Upon success, target suffers 1d4+1 damage and suffers from a headache. They suffer disadvantage for the duration of the headache. 
 
 GILGO’S MISSING GOLD
+
 2nd
-V, S
-Materials: 200gp (or more)
+
+V, S, M (200gp (or more))
+
 Casting time: instantaneous
-Duration: N/A
+
 Effects: The caster has found Gilgo’s missing gold! Please return it to him. 
 
 GILGO’S SUPERIOR POLYMORPH
 5th
-V, S
-Materials: A bit of raccoon fur mixed with ruby dust
+V, S, M (A bit of raccoon fur mixed with ruby dust)
+
 Casting time: 1 round
+
 Duration: 1 hour
+
 Effects: Upon a failed wisdom save, the target is transformed into a pig. The size of the pig is determined by the scale of failure, as determined by this table:
 
 1: Large
+
 2-5: Huge
+
 6-10: Gargantuan
 
 GILGO’S ENFORCED PROPERTY RIGHTS
+
 3rd
-V, S
-Materials: Numerous iron stakes
+
+V, S, M (Numerous iron stakes)
 Casting time: 1 hour
+
 Duration: Indefinite
+
 Effects: The caster demarcates the boundaries of their property with the iron stakes. After the spell is cast, a very loud, bright magical boundary appears in the form of 20 ft walls. These walls are opaque, but can be traversed as if they weren’t there. When any living thing, such as a squirrel or an intruder, or nonliving thing, such as a leaf, crosses the boundary, a voice announces their presence and commands them/it to leave.
 
 GILGO’S SUPERIOR ACID ARROW
+
 8th
-V, S
-Materials: 7 tons of lumber
+
+V, S, M (7 tons of lumber)
 Casting time: 24 hours
+
 Range: 10 ft
+
 Effect: Like acid arrow, but 6d6 damage on a successful ranged spell attack.
 
 GILGO’S SUPERIOR HIDEOUS LAUGHTER
+
 1st
-V, S
-Materials: A handful of goose down
+V, S, M (A handful of goose down)
+
 Casting time: 1 round
+
 Duration: 1 hour
+
 Range: 30 ft
+
 Effects: Upon failing a wisdom check, the target is afflicted with an ugly laugh. The target brays like a donkey, or some kind of brain-damaged hyena. Their laugh is really stupid. You can mock  them if you want. You should, really. You should make them feel bad.
 
 GILGO’S ADVISING SPIRIT
+
 4th
+
 V, S, M (Gilgo’s favorite food, raw bread dough)
+
 Casting time: 1 minute
+
 Effects: Gilgo himself appears before the caster to offer sage, and timely, advice. ED. NOTE: While Gilgo imagined he would be summoned from the Wizard Plane after his death (a plane that does not exist) he is actually summoned from Limbo. Evidently he’s been summoned to parties of drunk wizards one too many times, because he mainly sits on the ground, facing away from the caster, with his arms crossed, until the spell ends.
 
 GILGO’S COPROPHOBIC AUGURY
+
 5th
+
 V (screaming), S, M (a poop)
+
 Casting time: Instantaneous 
+
 Effects: The caster tosses the poop in the air. If it hits the caster, woe. If it hits someone else, weal. If it hits nobody, neither weal nor woe--the caster can do it again if they’re feeling like a real prick, but this will not change the previous outcome.
 
